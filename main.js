@@ -2,6 +2,8 @@ left_wrist = ""
 
 right_wrist = "";
 
+difference = "";
+
 
 function setup(){
 
